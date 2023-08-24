@@ -1,11 +1,11 @@
-About mat73
-===========
+About mat73-feedstock
+=====================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/mat73-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/skjerns/mat7.3
 
 Package license: GPL-3.0-or-later
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/mat73-feedstock/blob/main/LICENSE.txt)
 
 Summary: Load MATLAB .mat 7.3 into Python native data types (via h5/hd5/hdf5/h5py)
 
