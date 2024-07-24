@@ -1,5 +1,5 @@
 {% set name = "mat73" %}
-{% set version = "0.64" %}
+{% set version = "0.65" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/mat73-{{ version }}.tar.gz
-  sha256: 68520fe72ebee3c50b0f5e8af09ad5460c652bca6c83567a4ecccf61a98c1cf4
+  sha256: ad38a06af3d483632bd939ee572b3724ea8c03d37916765d7278f9de95541ade
 
 build:
   noarch: python
